@@ -1,0 +1,20 @@
+#root {
+  max-width: 100%;
+  min-height: 100svh;
+  box-sizing: border-box;
+}
+
+body {
+  background: #080808;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
